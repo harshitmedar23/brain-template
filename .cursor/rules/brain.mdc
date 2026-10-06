@@ -1,0 +1,9 @@
+---
+description: Project brain
+alwaysApply: true
+---
+Before doing anything, read brain/Memory.md and brain/Rules.md.
+- If Memory.md says "Status: UNCONFIGURED": read brain/BOOTSTRAP.md and follow it as soon as the user gives a problem statement. Do NOT write app code in that session.
+- Otherwise: read brain/PRD.md, brain/Architecture.md, brain/Phases.md, then continue the current phase.
+Project docs live in brain/. Never scan the full repo unless asked. Work ONE phase at a time.
+Update brain/Memory.md after each milestone.
